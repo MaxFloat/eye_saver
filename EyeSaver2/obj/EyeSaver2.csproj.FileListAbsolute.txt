@@ -1,0 +1,14 @@
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Debug\EyeSaver2.csproj.GenerateResource.Cache
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\bin\Debug\EyeSaver.exe
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\bin\Debug\EyeSaver.pdb
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Debug\EyeSaver.Properties.Resources.resources
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Debug\EyeSaver.exe
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Debug\EyeSaver.pdb
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\bin\Release\EyeSaver.exe
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\bin\Release\EyeSaver.pdb
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Release\ResolveAssemblyReference.cache
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Release\EyeSaver.Properties.Resources.resources
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Release\EyeSaver2.csproj.GenerateResource.Cache
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Release\EyeSaver.exe
+C:\WORK\EyeSaver2\EyeSaver2\EyeSaver2\obj\Release\EyeSaver.pdb
